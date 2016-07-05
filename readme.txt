@@ -5,3 +5,4 @@ Git tracks changes.
 test test test
 fuck funk suck
 123123123
+Creating a new branch is quick.
