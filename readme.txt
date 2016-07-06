@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 test test test
 fuck funk suck
-123123123
+Git is free software ...
 Creating a new branch is quick AND simple.
